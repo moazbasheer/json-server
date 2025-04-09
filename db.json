@@ -12,17 +12,7 @@
     "name": "typicode"
   },
   "users": [
-    {
-      "id": 1,
-      "username": "moaz",
-      "email": "moaz@moaz.com",
-      "password": "123456"
-    },
-    {
-      "id": 2,
-      "username": "moaz2",
-      "email": "moaz2@moaz.com",
-      "password": "123456"
-    }
+    { "id": 1, "username": "moaz", "email": "moaz@moaz.com", "password": "123456" },
+    { "id": 2, "username": "moaz2", "email": "moaz2@moaz.com", "password": "123456" }
   ]
 }
